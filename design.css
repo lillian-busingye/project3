@@ -8,6 +8,9 @@ body{
    justify-content: center;
 
 }
+h3 {
+    color: brown;
+}
 .container{
     display: grid;
     gap: 0.5em;
